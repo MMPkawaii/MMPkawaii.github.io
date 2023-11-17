@@ -1,0 +1,66 @@
+<html>
+<head>
+	 <title> Puppy Place </title>
+	 <style>
+		table{width:100%;}
+		#header {
+			background-color:black;
+			color:white;
+			text-align:center;
+			padding:5px;
+		}
+		#nav {
+			line-height:30px;
+			background-color:#eeeeee;
+			height:300px;
+			width:150x;
+			float:left;
+			padding:5px;
+		}
+		#section {
+			width:350px;
+			float:left;
+			padding:10px;
+		}
+		#footer {
+			background-color:black;
+			color:white;
+			clear:both;
+			text-align:center;
+			padding:5px;
+		}
+	</style> 
+</head>
+ <body>
+<table>
+	<tr>
+		<th id="header" colspan="2">
+		<h1>Pet Gallery</h1>
+		</th>
+	</tr>
+	<tr>
+		<td id="nav" width=200px>
+		<a href="gallery1.html"">Golden Retriever</a><br>
+		<a href="gallery2.html">Labrador Retriever</a><br>
+		<a href="gallery3.html">Pomsky</a><br>
+		</td>
+		<td id="section">
+		<h1>Golden Retriever</h1>
+		<p>
+		Intelligent, Outgoing, Funny
+		</p>
+		<p>
+		The Golden Retriever breed has been around since the early 1830s. They were made to be hunting dogs but now they are cheerful cute dogs whom everyone loves. They have life span of 10 to 12 years making them excellent family dogs. They are well known therapy dogs and love to eat.
+		</p>
+		<img src="C:\Users\kawaii\Pictures\Saved Pictures\golden-retriever.jpg" alt= "Golden retriever puppy"/>
+		
+		</td>
+	</tr>
+	<tr>
+		<td id="footer" colspan="2">
+		Contact Us: 
+		</td>
+	</tr>	</div>
+</table>
+</body> 
+</html>
